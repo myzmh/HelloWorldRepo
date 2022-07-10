@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - PrivateHelloWorld (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - PrivateHelloWorld (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  PrivateHelloWorld:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  PrivateHelloWorld: f684f377b0f17c510ed7597e9673af96f4f60f0f
+
+PODFILE CHECKSUM: 7d3fcdd22fd095ff3672033fd709dadb122713b8
+
+COCOAPODS: 1.11.3

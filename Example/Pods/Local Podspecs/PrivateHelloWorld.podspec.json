@@ -1,0 +1,22 @@
+{
+  "name": "PrivateHelloWorld",
+  "version": "0.1.0",
+  "summary": "PrivateHelloWorld",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/myzmh/HelloWorldRepo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zmh": "1424649620@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/myzmh/HelloWorldRepo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PrivateHelloWorld/Classes/**/*"
+}
